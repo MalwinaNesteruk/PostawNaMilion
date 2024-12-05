@@ -1,0 +1,231 @@
+[
+	{
+		"CategoryName": "dobre wychowanie",
+		"QuestionText": "Zachowanie niezgodne z przyjętymi zwyczajami towarzyskimi to inaczej:",
+		"Variants": [
+			"faux pas",
+			"bon mot",
+			"fondue",
+			"chapeau bas"
+		],
+		"IsUsed": true
+	},
+	{
+		"CategoryName": "tradycje",
+		"QuestionText": "Bukty to tradycyjny przysmak wigilijny przygotowywany przez:",
+		"Variants": [
+			"Podhalan",
+			"Kaszubów",
+			"Kurpiów",
+			"Ślązaków"
+		],
+		"IsUsed": false
+	},
+	{
+		"CategoryName": "rośliny",
+		"QuestionText": "Którą przyprawę otrzymuje się z kłącza, czyli podziemnego pędu rośliny?",
+		"Variants": [
+			"imbir",
+			"rozmaryn",
+			"cynamon",
+			"szafran"
+		],
+		"IsUsed": false
+	},
+	{
+		"CategoryName": "taniec",
+		"QuestionText": "'Czy pozwoli panna Krysia? – młody ułan pyta, zapraszając partnerkę, choć poranek świta' do jeszcze jednego:",
+		"Variants": [
+			"mazura",
+			"poloneza",
+			"walca",
+			"tanga"
+		],
+		"IsUsed": false
+	},
+	{
+		"CategoryName": "polityka",
+		"QuestionText": "Kto w 1995 r. powiedział, że 'Prawdziwego mężczyznę poznaje się po tym, jak kończy, a nie jak zaczyna'?",
+		"Variants": [
+			"Leszek Miller",
+			"Aleksander Kwaśniewski",
+			"Marian Krzaklewski",
+			"Lech Wałęsa"
+		],
+		"IsUsed": false
+	},
+	{
+		"CategoryName": "dziedzictwo",
+		"QuestionText": "Która starówka nie jest wpisana na Listę Światowego Dziedzictwa UNESCO?",
+		"Variants": [
+			"w Lublinie",
+			"w Warszawie",
+			"w Toruniu",
+			"w Zamościu"
+		],
+		"IsUsed": false
+	},
+	{
+		"CategoryName": "jedzenie",
+		"QuestionText": "Badacze porównali, jak mieszkańcy różnych krajów spędzają czas. Kto się najbardziej spieszy przy posiłkach?",
+		"Variants": [
+			"Amerykanie",
+			"Brytyjczycy",
+			"Francuzi",
+			"Norwegowie"
+		],
+		"IsUsed": false
+	},
+	{
+		"CategoryName": "głos",
+		"QuestionText": "Którym głosem da się zaśpiewać najwyższe dźwięki?",
+		"Variants": [
+			"sopranem",
+			"altem",
+			"tenorem",
+			"basem"
+		],
+		"IsUsed": false
+	},	
+	{
+		"CategoryName": "imię",
+		"QuestionText": "Jakie było prawdziwe imię Violetty Villas?",
+		"Variants": [
+			"Czesława",
+			"Jolanta",
+			"Stanisława",
+			"Helena"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "atrakcje",
+		"QuestionText": "Które muzeum może się pochwalić największą liczbą zwiedzających rocznie?",
+		"Variants": [
+			"Luwr",
+			"Chińskie Muzeum Narodowe",
+			"Muzeum Brytyjskie",
+			"The Metropolitan Museum of Art"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "najstarsze",
+		"QuestionText": "Pierwsza pizzeria w Polsce rozpoczęła działalność w połowie lat 70. XX. Gdzie?",
+		"Variants": [
+			"w Słupsku",
+			"w Radomiu",
+			"w Krakowie",
+			"w Warszawie"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "unik",
+		"QuestionText": "Osoby na diecie bezglutenowej unikają potraw zawierających:",
+		"Variants": [
+			"pszenicę",
+			"ryż",
+			"kukurydzę",
+			"proso"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "magia świąt",
+		"QuestionText": "Brytyjczycy wierzą, że szczególne szczęście czeka w następnym roku tego, kto podczas świąt Bożego Narodzenia:",
+		"Variants": [
+			"całował się pod jemiołą",
+			"zjadł najwięcej makowca",
+			"zobaczył pierwszą gwiazdkę",
+			"upuścił widelec"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "pieniądze",
+		"QuestionText": "Na liście 'Forbesa' najlepiej zarabiających aktorek 2020 r. pierwsze miejsce zajęła:",
+		"Variants": [
+			"Sofia Vergara",
+			"Meryl Streep",
+			"Angelina Jolie",
+			"Gal Gadot"
+		],
+		"IsUsed": false
+	},
+	
+		{
+		"CategoryName": "muzyka",
+		"QuestionText": "Z którego z tych naturalnych materiałów wykonywano wczesne płyty gramofonowe?",
+		"Variants": [
+			"szelak",
+			"szylkret",
+			"heban",
+			"kość słoniowa"
+		],
+		"IsUsed": false
+	},		
+	
+	{
+		"CategoryName": "kolory",
+		"QuestionText": "Jakie barwy ma flaga esperancka?",
+		"Variants": [
+			"zieloną i białą",
+			"czerwoną i żółtą",
+			"niebieską i białą",
+			"niebieską i żółtą"
+		],
+		"IsUsed": false
+	},	
+	{
+		"CategoryName": "więcej-lepiej?",
+		"QuestionText": "Kto z nich napisał i wydał najwięcej powieści?",
+		"Variants": [
+			"Remigiusz Mróz",
+			"Szczepan Twardoch",
+			"Katarzyna Grochola",
+			"Wojciech Chmielarz"
+		],
+		"IsUsed": false
+	},	
+	{
+		"CategoryName": "kraj",
+		"QuestionText": "Nie biorąc pod uwagi Nepalu i Bhutanu, krajem o największej na świecie średniej wysokości n.p.m. jest:",
+		"Variants": [
+			"Tadżykistan",
+			"Ukraina",
+			"Kirgistan",
+			"Boliwia"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "na sprzedaż",
+		"QuestionText": "'Niemiec płakał, jak sprzedawał' – zapewniają handlarze:",
+		"Variants": [
+			"używanych samochodów",
+			"świeżych warzyw",
+			"akcji i obligacji",
+			"dzieł sztuki"
+		],
+		"IsUsed": false
+	},	
+	
+	{
+		"CategoryName": "tradycyjny ubiór",
+		"QuestionText": "Tradycyjny ubiór kobiecy w Indiach, długi kupon tkaniny upięty wokół talii i przerzucony przez ramię, to:",
+		"Variants": [
+			"sari",
+			"dhoti",
+			"pareo",
+			"sarong"
+		],
+		"IsUsed": false
+	}
+]
