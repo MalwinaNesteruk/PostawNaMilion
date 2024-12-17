@@ -44,3 +44,8 @@ Po pewnym czasie aplikacja przechodzi do ekranu wyboru następnej kategorii pyta
 | 18 | kraj             | Nie biorąc pod uwagi Nepalu i Bhutanu, krajem o największej na świecie średniej wysokości n.p.m. jest:        | Tadżykistan             | Ukraina                  | Kirgistan                  |  Boliwia                        | 0 |
 | 19 | na sprzedaż      | 'Niemiec płakał, jak sprzedawał' – zapewniają handlarze:                                                      | używanych samochodów    | świeżych warzyw          | akcji i obligacji          |  dzieł sztuki                   | 0 |
 | 20 | tradycyjny ubiór | Tradycyjny ubiór kobiecy w Indiach, długi kupon tkaniny upięty wokół talii i przerzucony przez ramię, to:     | sari                    | dhoti                    | pareo                      |  sarong                         | 0 |
+
+
+Jest też druga aplikacja umożliwiająca dodawanie pytań do bazy danych. 
+![image](https://github.com/user-attachments/assets/38cbc04e-3ff3-4920-8b40-70cd52c1f1e6)
+Należy uzupełnić wszystkie pola i kliknąć przycisk 'Dodaj do bazy pytań'. Gdy pytanie zostanie poprawne dodane do bazy, to użytkownik zobaczy komunikat 'Pytanie zostało dodane do bazy.'. Jeśli którekolwiek z pól zostanie wypełnione w nieprawidłowy sposób, to pojawi się okno informujące użytkownika na czym polega błąd.
